@@ -1,0 +1,34 @@
+cookie:
+  expiry_days: 30
+  key: a_very_long_and_secure_signature_key_for_jwt_32_bytes
+  name: course_recommender_cookie
+credentials:
+  usernames:
+    harshitha:
+      email: harshitha@example.com
+      name: harshitha
+      password: $2b$12$DDtb8j1mn1voaT96s489/Os0cjZFvTdppWZXzUF2eZ3csbQxVLFr2
+    'kaveri ':
+      email: kaveri @example.com
+      name: 'kaveri '
+      password: $2b$12$AXrA.toaKvS2Urc7rHSxtemkN8EeFcuSIj52tJAYgEzxmJl8M9Y4i
+    kaveri goud:
+      email: Kaveri Goud@example.com
+      name: Kaveri Goud
+      password: $2b$12$jarM/mSuA/IrUjgwzw.44ON3e73wsNxWyXr5rDAksG4F8wHEN6h56
+    kaveri30:
+      email: kaveri@gmail.com
+      first_name: danthala
+      last_name: kaveri
+      logged_in: false
+      password: $2b$12$4PXCA8VtDfsFXwHtujfdgueCjVyMzyatV.IqRJvmvFA6.nqpjve0a
+      password_hint: Kaveri@123
+      roles: null
+    rupa sri:
+      email: rupa sri@example.com
+      name: rupa sri
+      password: $2b$12$EWqHpgJIWPJGXCDTgvKY6OvaTz4oBtiziIYv/VY19FmQ1qUKx./Q6
+    sanjana:
+      email: sanjana@example.com
+      name: sanjana
+      password: $2b$12$pcmNSs56.P.K0BCg8dvS7OBY355vt8pW/7mY9GE5jr.hpB5KBFMTm
